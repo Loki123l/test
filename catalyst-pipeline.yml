@@ -14,4 +14,4 @@ stages:
     jobs:
       - - hello
         - world
-      - hello-world
+      - hello-world -
